@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebrar Nur Caliskan
 - :woman_student: I’m currently studying at Istanbul Aydin University Software Engineering
-- :computer: I’m currently learning JavaScript and React
+- :computer: I’m currently learning JavaScript
 - 📫 How to reach me ebrarnurr02@gmail.com
 
 <!---
